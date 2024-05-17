@@ -1,6 +1,6 @@
-# React + Vite
+# BackGround Color Changer 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A basic button that changes the required color of the background. Lacks CSS element but ensures a complete React Usage.
 
 Currently, two official plugins are available:
 
